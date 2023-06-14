@@ -589,6 +589,10 @@ img {
   margin-bottom: 4px;
 }
 
+.input-container {
+  position: relative;
+}
+
 /*-----------Portfolio-----------*/
 
 .portfolio-img-title {
