@@ -680,6 +680,12 @@ div {
   fill: transparent;
 }
 
+.input-checkbox:checked .privacy-police {
+  background-color: #404bbf;
+  border: none;
+  fill: #f4f4fd;
+}
+
 /*-----------Portfolio-----------*/
 
 .portfolio-img-title {
