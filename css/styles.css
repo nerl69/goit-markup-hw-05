@@ -666,6 +666,9 @@ div {
   color: #8e8f99;
 }
 
+.checkbox-container .visually-hidden {
+}
+
 /*-----------Portfolio-----------*/
 
 .portfolio-img-title {
