@@ -686,6 +686,10 @@ input:checked .privacy-police {
   fill: #f4f4fd;
 }
 
+input:focus .svg-name {
+  fill: #4d5ae5;
+}
+
 /*-----------Portfolio-----------*/
 
 .portfolio-img-title {
