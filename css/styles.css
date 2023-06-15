@@ -680,7 +680,7 @@ div {
   fill: transparent;
 }
 
-.input-checkbox:checked .privacy-police {
+.input-checkbox:checked span {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
