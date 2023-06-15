@@ -690,6 +690,10 @@ input:focus .svg-name {
   fill: #4d5ae5;
 }
 
+.privacy-policy-link {
+  color: #4d5ae5;
+}
+
 /*-----------Portfolio-----------*/
 
 .portfolio-img-title {
