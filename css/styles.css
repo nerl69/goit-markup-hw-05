@@ -686,7 +686,7 @@ input:checked .privacy-police {
   fill: #f4f4fd;
 }
 
-input:focus .svg-name {
+input:focus + .svg-name {
   fill: #4d5ae5;
 }
 
